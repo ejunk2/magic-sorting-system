@@ -19,7 +19,8 @@
 				"minecraft:mycelium",
 				"minecraft:podzol",
 				"minecraft:crimson_nylium",
-				"minecraft:warped_nylium"
+				"minecraft:warped_nylium",
+				"minecraft:rooted_dirt"
 			]
 		},
 		{
@@ -230,7 +231,8 @@
 				"minecraft:crimson_door",
 				"minecraft:warped_door",
 				"minecraft:crimson_sign",
-				"minecraft:warped_sign"
+				"minecraft:warped_sign",
+				"minecraft:glow_item_frame"
 			]
 		},
 		{
@@ -260,7 +262,13 @@
 				"minecraft:mossy_cobblestone",
 				"minecraft:stone",
 				"minecraft:basalt",
-				"minecraft:blackstone"
+				"minecraft:blackstone",
+				"minecraft:calcite",
+				"minecraft:dripstone_block",
+				"minecraft:pointed_dripstone",
+				"minecraft:cobbled_deepslate",
+				"minecraft:deepslate",
+				"minecraft:tuff"
 			]
 		},
 		{
@@ -331,7 +339,50 @@
 				"minecraft:polished_blackstone_bricks",
 				"minecraft:polished_blackstone_brick_slab",
 				"minecraft:polished_blackstone_brick_stairs",
-				"minecraft:cracked_polished_blackstone_bricks"
+				"minecraft:cracked_polished_blackstone_bricks",
+				"minecraft:cut_copper",
+				"minecraft:cut_copper_slab",
+				"minecraft:cut_copper_stairs",
+				"minecraft:exposed_cut_copper",
+				"minecraft:exposed_cut_copper_slab",
+				"minecraft:exposed_cut_copper_stairs",
+				"minecraft:oxidized_cut_copper",
+				"minecraft:oxidized_cut_copper_slab",
+				"minecraft:oxidized_cut_copper_stairs",
+				"minecraft:waxed_cut_copper",
+				"minecraft:waxed_cut_copper_slab",
+				"minecraft:waxed_cut_copper_stairs",
+				"minecraft:waxed_exposed_cut_copper",
+				"minecraft:waxed_exposed_cut_copper_slab",
+				"minecraft:waxed_exposed_cut_copper_stairs",
+				"minecraft:waxed_oxidized_cut_copper",
+				"minecraft:waxed_oxidized_cut_copper_slab",
+				"minecraft:waxed_oxidized_cut_copper_stairs",
+				"minecraft:waxed_weathered_cut_copper",
+				"minecraft:waxed_weathered_cut_copper_slab",
+				"minecraft:waxed_weathered_cut_copper_stairs",
+				"minecraft:weathered_cut_copper",
+				"minecraft:weathered_cut_copper_slab",
+				"minecraft:weathered_cut_copper_stairs",
+				"minecraft:chiseled_deepslate",
+				"minecraft:cobbled_deepslate_slab",
+				"minecraft:cobbled_deepslate_stairs",
+				"minecraft:cobbled_deepslate_wall",
+				"minecraft:cracked_deepslate_bricks",
+				"minecraft:cracked_deepslate_tiles",
+				"minecraft:deepslate_bricks",
+				"minecraft:deepslate_brick_slab",
+				"minecraft:deepslate_brick_stairs",
+				"minecraft:deepslate_brick_wall",
+				"minecraft:deepslate_tiles",
+				"minecraft:deepslate_tile_slab",
+				"minecraft:deepslate_tile_stairs",
+				"minecraft:deepslate_tile_wall",
+				"minecraft:polished_deepslate",
+				"minecraft:polished_deepslate_slab",
+				"minecraft:polished_deepslate_stairs",
+				"minecraft:polished_deepslate_wall",
+				"minecraft:smooth_basalt"
 			]
 		},
 		{
@@ -431,7 +482,30 @@
 				"minecraft:netherite_shovel",
 				"minecraft:netherite_pickaxe",
 				"minecraft:netherite_axe",
-				"minecraft:netherite_hoe"
+				"minecraft:netherite_hoe",
+				"minecraft:axolotl_bucket",
+				"minecraft:black_candle",
+				"minecraft:blue_candle",
+				"minecraft:brown_candle",
+				"minecraft:candle",
+				"minecraft:cyan_candle",
+				"minecraft:gray_candle",
+				"minecraft:green_candle",
+				"minecraft:light_blue_candle",
+				"minecraft:light_gray_candle",
+				"minecraft:lime_candle",
+				"minecraft:magenta_candle",
+				"minecraft:orange_candle",
+				"minecraft:pink_candle",
+				"minecraft:purple_candle",
+				"minecraft:red_candle",
+				"minecraft:white_candle",
+				"minecraft:yellow_candle",
+				"minecraft:lightning_rod",
+				"minecraft:powder_snow_bucket",
+				"minecraft:spyglass",
+				"minecraft:bundle",
+				"minecraft:bundle_filled"
 			]
 		},
 		{
@@ -584,7 +658,21 @@
 				"minecraft:nether_sprouts",
 				"minecraft:weeping_vines",
 				"minecraft:twisting_vines",
-				"minecraft:warped_wart_block"
+				"minecraft:warped_wart_block",
+				"minecraft:azalea",
+				"minecraft:azalea_leaves",
+				"minecraft:flowering_azalea",
+				"minecraft:flowering_azalea_leaves",
+				"minecraft:moss_block",
+				"minecraft:moss_carpet",
+				"minecraft:big_dripleaf",
+				"minecraft:small_dripleaf",
+				"minecraft:glow_berries",
+				"minecraft:glow_lichen",
+				"minecraft:hanging_roots",
+				"minecraft:potted_azalea_bush",
+				"minecraft:potted_flowering_azalea_bush",
+				"minecraft:spore_blossom"
 			]
 		},
 		{
@@ -758,7 +846,11 @@
 				"minecraft:piglin_brute_spawn_egg",
 				"minecraft:strider_spawn_egg",
 				"minecraft:zoglin_spawn_egg",
-				"minecraft:zombified_piglin_spawn_egg"
+				"minecraft:zombified_piglin_spawn_egg",
+				"minecraft:infested_deepslate",
+				"minecraft:goat_spawn_egg",
+				"minecraft:axolotl_spawn_egg",
+				"minecraft:glow_squid_spawn_egg"
 			]
 		},
 		{
@@ -786,7 +878,25 @@
 				"minecraft:trident",
 				"minecraft:netherite_ingot",
 				"minecraft:netherite_scrap",
-				"minecraft:netherite_block"
+				"minecraft:netherite_block",
+				"minecraft:raw_gold_block",
+				"minecraft:raw_iron_block",
+				"minecraft:raw_copper_block",
+				"minecraft:copper_ingot",
+				"minecraft:copper_block",
+				"minecraft:exposed_copper",
+				"minecraft:oxidized_copper",
+				"minecraft:weathered_copper",
+				"minecraft:waxed_copper_block",
+				"minecraft:waxed_exposed_copper",
+				"minecraft:waxed_oxidized_copper",
+				"minecraft:waxed_weathered_copper",
+				"minecraft:amethyst_block",
+				"minecraft:amethyst_cluster",
+				"minecraft:amethyst_shard",
+				"minecraft:small_amethyst_bud",
+				"minecraft:medium_amethyst_bud",
+				"minecraft:large_amethyst_bud"
 			]
 		},
 		{
@@ -1018,7 +1128,8 @@
 				"minecraft:white_stained_glass",
 				"minecraft:white_stained_glass_pane",
 				"minecraft:yellow_stained_glass",
-				"minecraft:yellow_stained_glass_pane"
+				"minecraft:yellow_stained_glass_pane",
+				"minecraft:tinted_glass"
 			]
 		},
 		{
@@ -1132,7 +1243,8 @@
 				"minecraft:green_dye",
 				"minecraft:yellow_dye",
 				"minecraft:red_dye",
-				"minecraft:white_dye"
+				"minecraft:white_dye",
+				"minecraft:glow_ink_sac"
 			]
 		},
 		{
@@ -1187,7 +1299,19 @@
 				"minecraft:nether_quartz_ore",
 				"minecraft:nether_gold_ore",
 				"minecraft:redstone_ore",
-				"minecraft:ancient_debris"
+				"minecraft:ancient_debris",
+				"minecraft:raw_copper",
+				"minecraft:raw_gold",
+				"minecraft:raw_iron",
+				"minecraft:copper_ore",
+				"minecraft:deepslate_coal_ore",
+				"minecraft:deepslate_copper_ore",
+				"minecraft:deepslate_diamond_ore",
+				"minecraft:deepslate_emerald_ore",
+				"minecraft:deepslate_gold_ore",
+				"minecraft:deepslate_iron_ore",
+				"minecraft:deepslate_lapis_ore",
+				"minecraft:deepslate_redstone_ore"
 			]
 		},
 		{
@@ -1214,7 +1338,8 @@
 				"minecraft:repeater",
 				"minecraft:repeating_command_block",
 				"minecraft:sticky_piston",
-				"minecraft:tripwire_hook"
+				"minecraft:tripwire_hook",
+				"minecraft:sculk_sensor"
 			]
 		},
 		{
