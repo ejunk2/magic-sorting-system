@@ -20,7 +20,13 @@
 				"minecraft:podzol",
 				"minecraft:crimson_nylium",
 				"minecraft:warped_nylium",
-				"minecraft:rooted_dirt"
+				"minecraft:rooted_dirt",
+				"minecraft:mud",
+				"minecraft:packed_mud",
+				"minecraft:mud_bricks",
+				"minecraft:mud_brick_slab",
+				"minecraft:mud_brick_stairs",
+				"minecraft:mud_brick_wall"
 			]
 		},
 		{
@@ -112,7 +118,12 @@
 				"minecraft:stripped_crimson_hyphae",
 				"minecraft:stripped_warped_hyphae",
 				"minecraft:crimson_hyphae",
-				"minecraft:warped_hyphae"
+				"minecraft:warped_hyphae",
+				"minecraft:mangrove_wood",
+				"minecraft:mangrove_log",
+				"minecraft:mangrove_planks",
+				"minecraft:stripped_mangrove_wood",
+				"minecraft:stripped_mangrove"
 			]
 		},
 		{
@@ -232,7 +243,24 @@
 				"minecraft:warped_door",
 				"minecraft:crimson_sign",
 				"minecraft:warped_sign",
-				"minecraft:glow_item_frame"
+				"minecraft:glow_item_frame",
+				"minecraft:mangrove_stairs",
+				"minecraft:mangrove_sign",
+				"minecraft:mangrove_fence",
+				"minecraft:mangrove_fence_gate",
+				"minecraft:mangrove_door",
+				"minecraft:mangrove_trapdoor",
+				"minecraft:mangrove_button",
+				"minecraft:mangrove_boat",
+				"minecraft:mangrove_pressure_plate",
+				"minecraft:mangrove_slab",
+				"minecraft:oak_chest_boat",
+				"minecraft:spruce_chest_boat",
+				"minecraft:birch_chest_boat",
+				"minecraft:jungle_chest_boat",
+				"minecraft:acacia_chest_boat",
+				"minecraft:dark_oak_chest_boat",
+				"minecraft:mangrove_chest_boat"
 			]
 		},
 		{
@@ -266,8 +294,6 @@
 				"minecraft:calcite",
 				"minecraft:dripstone_block",
 				"minecraft:pointed_dripstone",
-				"minecraft:cobbled_deepslate",
-				"minecraft:deepslate",
 				"minecraft:tuff"
 			]
 		},
@@ -364,6 +390,14 @@
 				"minecraft:weathered_cut_copper",
 				"minecraft:weathered_cut_copper_slab",
 				"minecraft:weathered_cut_copper_stairs",
+				"minecraft:smooth_basalt"
+			]
+		},
+		{
+			"group_name": "deepslate",
+			"item_frame": "minecraft:cobbled_deepslate",
+			"fallback": "stone",
+			"items": [
 				"minecraft:chiseled_deepslate",
 				"minecraft:cobbled_deepslate_slab",
 				"minecraft:cobbled_deepslate_stairs",
@@ -382,7 +416,9 @@
 				"minecraft:polished_deepslate_slab",
 				"minecraft:polished_deepslate_stairs",
 				"minecraft:polished_deepslate_wall",
-				"minecraft:smooth_basalt"
+				"minecraft:cobbled_deepslate",
+				"minecraft:deepslate",
+				"minecraft:reinforced_deepslate"
 			]
 		},
 		{
@@ -505,7 +541,9 @@
 				"minecraft:powder_snow_bucket",
 				"minecraft:spyglass",
 				"minecraft:bundle",
-				"minecraft:bundle_filled"
+				"minecraft:bundle_filled",
+				"minecraft:tadpole_bucket",
+				"minecraft:recovery_compass"
 			]
 		},
 		{
@@ -672,7 +710,14 @@
 				"minecraft:hanging_roots",
 				"minecraft:potted_azalea_bush",
 				"minecraft:potted_flowering_azalea_bush",
-				"minecraft:spore_blossom"
+				"minecraft:spore_blossom",
+				"minecraft:mangrove_leaves",
+				"minecraft:mangrove_roots",
+				"minecraft:muddy_mangrove_roots",
+				"minecraft:mangrove_propagule",
+				"minecraft:pearlescent_froglight",
+				"minecraft:verdant_froglight",
+				"minecraft:ochre_froglight"
 			]
 		},
 		{
@@ -850,7 +895,21 @@
 				"minecraft:infested_deepslate",
 				"minecraft:goat_spawn_egg",
 				"minecraft:axolotl_spawn_egg",
-				"minecraft:glow_squid_spawn_egg"
+				"minecraft:glow_squid_spawn_egg",
+				"minecraft:frog_spawn_egg",
+				"minecraft:tadpole_spawn_egg",
+				"minecraft:frog_spawn",
+				"minecraft:ponder_goat_horn",
+				"minecraft:sing_goat_horn",
+				"minecraft:seek_goat_horn",
+				"minecraft:feel_goat_horn",
+				"minecraft:admire_goat_horn",
+				"minecraft:call_goat_horn",
+				"minecraft:yearn_goat_horn",
+				"minecraft:dream_goat_horn",
+				"minecraft:goat_horn",
+				"minecraft:allay_spawn_egg",
+				"minecraft:warden_spawn_egg"
 			]
 		},
 		{
@@ -1338,8 +1397,7 @@
 				"minecraft:repeater",
 				"minecraft:repeating_command_block",
 				"minecraft:sticky_piston",
-				"minecraft:tripwire_hook",
-				"minecraft:sculk_sensor"
+				"minecraft:tripwire_hook"
 			]
 		},
 		{
@@ -1362,6 +1420,18 @@
 			]
 		},
 		{
+			"group_name": "sculk",
+			"item_frame": "minecraft:sculk",
+			"fallback": "misc",
+			"items": [
+				"minecraft:sculk",
+				"minecraft:sculk_sensor",
+				"minecraft:sculk_catalyst",
+				"minecraft:sculk_shrieker",
+				"minecraft:sculk_vein"
+			]
+		},
+		{
 			"group_name": "music",
 			"item_frame": "minecraft:note_block",
 			"fallback": "misc",
@@ -1379,6 +1449,9 @@
 				"minecraft:music_disc_wait",
 				"minecraft:music_disc_ward",
 				"minecraft:music_disc_pigstep",
+				"minecraft:music_disc_otherside",
+				"minecraft:music_disc_5",
+				"minecraft:disc_fragment_5",
 				"minecraft:note_block",
 				"minecraft:jukebox"
 			]
